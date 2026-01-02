@@ -1,8 +1,9 @@
 {
-  "name": "divyanshi",
+  "name": "Shagun",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://akchhonkar76-del.github.io/birthday-celebration-template",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -19,6 +20,7 @@
     "react-dom": "^19.2.0"
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "@eslint/js": "^9.39.1",
     "@types/react": "^19.2.5",
     "@types/react-dom": "^19.2.3",
