@@ -13,19 +13,18 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `My Dearest Love,
 
-Your personalized birthday message goes here.
+Happy Birthday to the most beautiful person in my life! 💕
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+Every moment with you feels like a dream come true. You light up my world with your smile, your laughter, and the way you make everything better just by being there.
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+Today, I want you to know how incredibly special you are to me. May this year bring you all the happiness you deserve, all your dreams come true, and endless reasons to smile. You deserve the world and so much more.
 
-Happy Birthday! 🎉
+I love you more than words can express. Here's to celebrating you today and always! 🎂✨
 
-— [Your Name]`;
+Forever yours,
+— Ankit`;
 
   // Handle page transitions
   useEffect(() => {
